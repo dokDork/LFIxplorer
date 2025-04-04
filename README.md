@@ -1,6 +1,6 @@
 # LFIxplorer
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)  
-<img src="https://github.com/dokDork/red-team-penetration-test-script/raw/main/images/siteSniper.png" width="250" height="250">  
+<img src="https://github.com/dokDork/LFIxplorer/blob/main/images/LFIexplorer.png" width="250" height="250"> 
   
 ## Description
 **LFIxplorer** is a tool designed to exploit Local File Inclusion (LFI) vulnerabilities in web applications. It works by identifying vulnerable parameters and reading files on the server, helping users locate and potentially exploit insecure file inclusion flaws.
