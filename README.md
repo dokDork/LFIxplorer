@@ -28,7 +28,7 @@ python3 LFIxplorer.py <burp file>
 It's very simple  
 ```
 cd /opt
-sudo git clone https://github.com/dokDork/LFIxmplorer.git
+sudo git clone https://github.com/dokDork/LFIxplorer.git
 cd LFIxplorer 
 chmod 755 LFIxplorer.py 
 python3 LFIxplorer.py 
